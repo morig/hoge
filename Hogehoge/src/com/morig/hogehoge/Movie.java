@@ -7,6 +7,7 @@ import java.net.URISyntaxException;
 import android.util.Log;
 
 //hogehoge.
+//hogehogehogehoge.
 
 public class Movie implements Serializable {
 	static final long serialVersionUID = 727566175075960653L;
